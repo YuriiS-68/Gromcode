@@ -19,4 +19,5 @@ public class Ad extends BaseEntity {
     void publishAd(){
         //some logic
     }
+    //4
 }

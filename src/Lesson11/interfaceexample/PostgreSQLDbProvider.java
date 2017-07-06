@@ -18,4 +18,5 @@ public class PostgreSQLDbProvider implements DbProvider {
     public void encryptData() {
         //some logic for PostgreSQL
     }
+    //4
 }

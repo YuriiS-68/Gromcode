@@ -17,4 +17,5 @@ public class CarAd extends Ad {
     void confirmAd(){
         //someLogic
     }
+    //4
 }

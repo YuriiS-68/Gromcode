@@ -11,5 +11,6 @@ public class User extends BaseEntity {
         super(id);
         this.userName = userName;
         this.location = location;
+        //4
     }
 }

@@ -12,4 +12,6 @@ public class DbConnector {
     void connect(){
         //logic
     }
+
+    //4logic
 }

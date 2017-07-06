@@ -9,4 +9,5 @@ public class BaseEntity {
     public BaseEntity(long id) {
         this.id = id;
     }
+    //4
 }

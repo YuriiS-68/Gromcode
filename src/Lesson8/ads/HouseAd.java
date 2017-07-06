@@ -26,4 +26,5 @@ public class HouseAd extends Ad {
         }
         return false;
     }
+    //4
 }

@@ -10,4 +10,5 @@ public interface DbProvider {
     void disconnectFromDb();
 
     void encryptData();
+    //4
 }

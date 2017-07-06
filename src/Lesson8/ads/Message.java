@@ -31,4 +31,5 @@ public class Message extends BaseEntity {
 
         return dateRead == null;
     }
+    //4
 }
