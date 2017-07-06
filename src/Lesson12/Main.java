@@ -33,5 +33,7 @@ public class Main {
         System.out.println();
         System.out.println(user1.getBalance());
         System.out.println(user4.getBalance());
+
+        System.out.println("The End");
     }
 }
